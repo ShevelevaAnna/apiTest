@@ -1,0 +1,31 @@
+{
+  "userId5": {
+    "website": "demarco.info",
+    "address": {
+      "zipcode": "33263",
+      "geo": {
+        "lng": "62.5342",
+        "lat": "-31.8129"
+      },
+      "suite": "Suite 351",
+      "city": "Roscoeview",
+      "street": "Skiles Walks"
+    },
+    "phone": "(254)954-1289",
+    "name": "Chelsey Dietrich",
+    "company": {
+      "bs": "revolutionize end-to-end systems",
+      "catchPhrase": "User-centric fault-tolerant solution",
+      "name": "Keebler LLC"
+    },
+    "id": 5,
+    "email": "Lucio_Hettinger@annie.ca",
+    "username": "Kamren"
+  },
+  "postsId99": {
+    "id": 99,
+    "title": "temporibus sit alias delectus eligendi possimus magni",
+    "body": "quo deleniti praesentium dicta non quod\naut est molestias\nmolestias et officia quis nihil\nitaque dolorem quia",
+    "userId": 10
+  }
+}
